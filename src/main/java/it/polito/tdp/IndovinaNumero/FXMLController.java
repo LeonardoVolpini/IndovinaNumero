@@ -17,6 +17,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 
 public class FXMLController {
+	
 	private Model model;
 
     @FXML // ResourceBundle that was given to the FXMLLoader
